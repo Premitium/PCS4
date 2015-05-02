@@ -1,0 +1,9 @@
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\StringManipulatingApp\bin\Debug\StringManipulatingApp.exe.config
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\StringManipulatingApp\bin\Debug\StringManipulatingApp.exe
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\StringManipulatingApp\bin\Debug\StringManipulatingApp.pdb
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\StringManipulatingApp\obj\Debug\StringManipulatingApp.csprojResolveAssemblyReference.cache
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\StringManipulatingApp\obj\Debug\StringManipulatingApp.Form1.resources
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\StringManipulatingApp\obj\Debug\StringManipulatingApp.Properties.Resources.resources
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\StringManipulatingApp\obj\Debug\StringManipulatingApp.csproj.GenerateResource.Cache
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\StringManipulatingApp\obj\Debug\StringManipulatingApp.exe
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\StringManipulatingApp\obj\Debug\StringManipulatingApp.pdb

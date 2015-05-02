@@ -1,0 +1,27 @@
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring\MachineMonitoring\bin\Debug\MachineMonitoring.exe.config
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring\MachineMonitoring\bin\Debug\MachineMonitoring.exe
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring\MachineMonitoring\bin\Debug\MachineMonitoring.pdb
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring\MachineMonitoring\obj\Debug\MachineMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring\MachineMonitoring\obj\Debug\MachineMonitoring.Form1.resources
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring\MachineMonitoring\obj\Debug\MachineMonitoring.Properties.Resources.resources
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring\MachineMonitoring\obj\Debug\MachineMonitoring.csproj.GenerateResource.Cache
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring\MachineMonitoring\obj\Debug\MachineMonitoring.exe
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring\MachineMonitoring\obj\Debug\MachineMonitoring.pdb
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring_START\MachineMonitoring\bin\Debug\MachineMonitoring.exe.config
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring_START\MachineMonitoring\obj\Debug\MachineMonitoring.exe
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring_START\MachineMonitoring\obj\Debug\MachineMonitoring.pdb
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring_START\MachineMonitoring\bin\Debug\MachineMonitoring.exe
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring_START\MachineMonitoring\bin\Debug\MachineMonitoring.pdb
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring_START\MachineMonitoring\obj\Debug\MachineMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring_START\MachineMonitoring\obj\Debug\MachineMonitoring.Form1.resources
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring_START\MachineMonitoring\obj\Debug\MachineMonitoring.Properties.Resources.resources
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week1\MachineMonitoring_START\MachineMonitoring\obj\Debug\MachineMonitoring.csproj.GenerateResource.Cache
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\MachineMonitoring\bin\Debug\MachineMonitoring.exe.config
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\MachineMonitoring\obj\Debug\MachineMonitoring.exe
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\MachineMonitoring\obj\Debug\MachineMonitoring.pdb
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\MachineMonitoring\bin\Debug\MachineMonitoring.exe
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\MachineMonitoring\bin\Debug\MachineMonitoring.pdb
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\MachineMonitoring\obj\Debug\MachineMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\MachineMonitoring\obj\Debug\MachineMonitoring.Form1.resources
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\MachineMonitoring\obj\Debug\MachineMonitoring.Properties.Resources.resources
+C:\Users\OMIS\Documents\Visual Studio 2013\Projects\Projects\PCS4\Week01\ASSIGNM2_week1_START\MachineMonitoring\obj\Debug\MachineMonitoring.csproj.GenerateResource.Cache
